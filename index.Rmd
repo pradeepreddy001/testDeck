@@ -1,8 +1,8 @@
 ---
 title       : Test deck
 subtitle    : 
-author      : 
-job         : 
+author      : Pradeep
+job         : Student
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -24,3 +24,6 @@ mode        : selfcontained # {standalone, draft}
 plot(1 : 10, 1 : 10)
 ```
 
+## Slide 3
+
+This is slide 3
