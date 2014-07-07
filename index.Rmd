@@ -10,24 +10,31 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 
-## Read-And-Delete
+## Actual Name
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+1. Cloud was named as "Cloud Strife"
+2. Cloud Strife was first created on August 11th, 1986
+
+
+ Source : www.cloudtweeks.com 
 
 --- .class #id 
 
-## Slide 2
+## Current Scenario
 
-```{r, fig.height=5, fig.width=5}
-plot(1 : 10, 1 : 10)
-```
+1. 70% of business are either currently using a cloud computing solution, or they are investigating one.
+2. According to the surveys, in 2011 30% of small and mid-size businesses (SMBs) used cloud software.
+3. 90% of Microsoft's 2011 R&D budget was spent on cloud computing strategy and products.
+4. 80% of the companies have experienced immense progress just within half year ie. just six months after moving to cloud.
+5. 65% of the US companies shifted to cloud in 2011.
 
-## Slide 3
 
-This is slide 3
+---
+## Enough..!
 
-## Slide 4
+Intel has a list of cloud facts too that includes the following:
 
-This is slide 4
+1. More than 2% of electricity in the US is consumed by data centers
+2. It is expected that with the technology of today, the equivalent of about 45 new coal plans will be needed to power data centers by 2015 without dramatic efficiency improvements
+3. A new server is added to the cloud for every 600 smart phones or 120 tablets
+
